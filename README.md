@@ -85,7 +85,7 @@ To run the project, execute the following command: `npm run start`
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Umer Zia**
 
 [GitHub](https://github.com/UmerZia) | [Twitter](https://twitter.com/ChukwumaMosanya) | [LinkedIn](https://linkedin.com/in/umer-zia-30906a183/)
 
