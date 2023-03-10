@@ -23,7 +23,7 @@
 
 # 📖 [Task-Tracker] <a name="about-project"></a>
 
-> Coming Soon!
+> Use this app to be more productive!
 
 ## 🛠 Built With <a name="built-with"></a>
 
