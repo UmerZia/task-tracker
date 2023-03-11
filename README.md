@@ -50,6 +50,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a> (if available)
 
 - Coming Soon!
+- [Netlify](https://task-tracker-page.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
